@@ -1,4 +1,4 @@
-// version dev
+// Se uno la version
 
 import _ from "underscore";
 // import crearDeck, { miNombre } from './usecases/crear-deck';
